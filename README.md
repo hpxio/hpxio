@@ -1,5 +1,20 @@
 # 💫 About Me:
-👋 Hi there! I'm Harsh, a Software Developer from Bengaluru, India, passionate about Back End Software Development.<br><br>🔭 Currently working on:<br>- [Project/Technology 1]<br>- [Project/Technology 2]<br><br>💡 Interested in:<br>- [Area of Interest 1]<br>- [Area of Interest 2]<br><br>🌱 Learning:<br>- [Skill/Technology]<br><br>🤝 Looking for collaboration on:<br>- [Project/Topic]<br><br>📫 Reach me at: [Your Email/Website]<br>
+👋 Hey there! I’m Harsh, a software developer from Bengaluru, with a decade of experience, passionate about building cloud-native solutions and mentoring teams.<br><br>
+
+* I’ve spent over 10 years diving deep into Java and Spring, crafting high-performance applications that tackle real-world challenges.
+
+* I learned designing and deploying cloud-native services on AWS, making the most of tools like Amazon EC2, Lambda, SQS, and RDS for scalability and reliability.
+
+* With GitLab CI in my toolkit, I streamline deployment and automate testing, which means faster releases and better quality all around.
+
+* I have constant exposure to Docker, Kubernetes & Terraform to manage cloud applications, and learning more modern ways as I progress.
+
+* I have built & mentored many development teams, focusing on growth, productivity & thriving learning environment.
+
+* I am enhancing skills in areas like scalable system architecture, high-availabability systems, microservices and design patterns.
+
+Always eager to learn, I explore modern frameworks and learning to contribute in open-source projects.<br/>
+In the future I am planning to learn about Android Application development & multi-platform application development.
 
 
 ## 🌐 Socials:
@@ -14,9 +29,6 @@
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=hpxio&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=hpxio&icon=5&color=6)](https://visitcount.itsvg.in)
